@@ -1,0 +1,48 @@
+h1:hover
+{
+    color :rgb(24, 24, 110);
+}
+
+h1,h2
+{
+    color:red ;
+	text-align: center; 
+	font: normal;
+    border: 2px solid black;
+    margin: 1px 620px;
+    padding: 1px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+html
+{
+    background: url(https://wallpaperaccess.com/full/342047.jpg) ;
+    background-size: cover;
+}
+
+p
+{
+    color: wheat;
+    font: message-box;
+    font-size: larger;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    
+}
+a
+{
+    opacity: 80%;
+    text-decoration: solid;
+    text-align: center;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    padding: 8px;
+    margin-left: 400px;
+    border-radius: 10px;
+}   
+
+
+
